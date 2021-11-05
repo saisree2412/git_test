@@ -1,0 +1,2 @@
+Hello Git and Github
+I am now trying to modify and commit 2 files at once
